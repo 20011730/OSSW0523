@@ -18,3 +18,4 @@ Include some badges such as build status, test coverage, etc.
     git clone http://github.com/username/profectname.git
     cd projectname
     pip install requirements.txt
+    
