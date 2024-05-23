@@ -13,7 +13,7 @@ Include some badges such as build status, test coverage, etc.
 - Feature 2
 - Feature 3
 ---
-# Installation
+### Installation
 
     git clone http://github.com/username/profectname.git
     cd projectname
